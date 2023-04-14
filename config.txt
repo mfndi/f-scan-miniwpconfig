@@ -1,0 +1,13 @@
+/.env
+/wp-config.php~
+/wp-config.inc
+/wp-config.old
+/wp-config.php.bak
+/wp-config.php.dist
+/wp-config.php.inc
+/wp-config.php.old
+/wp-config.php.txt
+/wp-config.txt
+/phpinfo.php
+/php.php
+/info.php
